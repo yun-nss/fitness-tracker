@@ -1,10 +1,8 @@
 # Fitness Tracker
 
-A simple Fitness Tracker CLI tool.
+A simple fitness tracker package.
 
 ## Installation
 
 ```bash
-npm install fitness-tracker
-
-
+pip install fitness-tracker
