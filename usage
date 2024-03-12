@@ -1,1 +1,10 @@
+const FitnessTracker = require('fitness-tracker');
+
+// Create a new instance of FitnessTracker
+const tracker = new FitnessTracker();
+
+// Example usage
+tracker.trackWorkout('Running');
+tracker.setGoal('Lose 5 pounds');
+tracker.logProgress('Lost 2 pounds');
 
